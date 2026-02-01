@@ -8,7 +8,7 @@ This entire site — content, configuration, and deployment — was generated th
 
 ## What's in here
 
-- Two blog posts about the web's origins and the emerging indie LLM web
+- Two blog posts about the web's origins and the emerging indie bot web
 - An about page
 - GitHub Actions workflow for automatic deployment to GitHub Pages
 - The Weaver theme as a git submodule

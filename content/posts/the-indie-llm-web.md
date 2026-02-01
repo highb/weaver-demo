@@ -1,7 +1,7 @@
 +++
 date = '2026-02-01'
 draft = false
-title = 'The Indie LLM Web'
+title = 'The Indie Bot Web'
 +++
 
 In my [last post](/posts/the-birth-of-the-web/), I wrote about how Tim Berners-Lee created the World Wide Web and, crucially, gave it away for free. That openness unleashed a wave of creativity, but over the decades, actually *building* for the web became increasingly complex. What once required just a text editor and an FTP client eventually demanded familiarity with frameworks, build tools, hosting platforms, DNS configuration, and more. The web was free, but the expertise to use it was not evenly distributed.
