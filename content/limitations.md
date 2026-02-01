@@ -42,7 +42,7 @@ This isn't a reason to avoid using AI tools — it's a reason to stay in the dri
 
 The AI helped you build something. That's genuinely useful. But the thing it built is generic until you make it specific. Your website becomes worth reading when you:
 
-- Replace the AI's safe, hedged language with your own witches brew of sarcams, bad puns, f-bombs,
+- Replace the AI's safe, hedged language with your own witches brew of sarcasm, bad puns, f-bombs,
   and whatever you actually think
 - Write about things the AI would never think to write about because they are a boring robot
   with no lived experience
