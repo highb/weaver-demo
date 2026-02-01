@@ -17,6 +17,8 @@ This entire site — content, configuration, and deployment — was generated th
 
 Want to set up a site like this using an LLM coding tool? See [PROMPT.md](PROMPT.md) — it's a ready-to-paste prompt that walks through the entire setup.
 
+New to web development? [LEARN.md](LEARN.md) explains all the technologies the site uses, from the ground up, with links to learning resources.
+
 ## Local development
 
 ```
