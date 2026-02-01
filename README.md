@@ -35,8 +35,15 @@ There are several options. Here are a few that work well for this kind of task:
 
 - **[Claude Code](https://docs.anthropic.com/en/docs/claude-code)** — Anthropic's command-line coding tool. This is what built this site. It requires a terminal (see Step 3) and an [Anthropic API account](https://console.anthropic.com/) or a [Claude Max subscription](https://claude.ai). Install it by typing `npm install -g @anthropic-ai/claude-code` in your terminal after installing Node.js.
 - **[Claude.ai](https://claude.ai)** — If you'd rather stay in the browser, you can use Claude's web interface. It can't run commands directly on your computer, but it can generate all the files and give you step-by-step instructions to run the commands yourself.
+- **[GitHub Copilot](https://github.com/features/copilot)** — Microsoft/GitHub's AI coding assistant. Available as a CLI tool, a VS Code extension, and built into github.com. Free tier available with a GitHub account.
+- **[ChatGPT Codex](https://openai.com/index/introducing-codex/)** — OpenAI's agentic coding tool, available through ChatGPT. It can run commands, write code, and work with GitHub repositories.
+- **[Gemini CLI](https://github.com/google-gemini/gemini-cli)** — Google's open-source command-line coding agent. Free to use with a Google account.
+- **[OpenCode](https://github.com/opencode-ai/opencode)** — An open-source terminal coding tool that works with many different AI models, giving you flexibility in which provider you use.
+- **[Aider](https://aider.chat/)** — An open-source, git-aware coding assistant that runs in the terminal. Works with many AI models, including free local models.
+- **[Cline](https://cline.bot/)** — An open-source autonomous coding agent (48K+ stars on GitHub) that runs as a VS Code extension. Works with many AI providers.
+- **[Goose](https://github.com/block/goose)** — An open-source AI agent from Block that runs locally and goes beyond just coding.
 
-Pick whichever you're most comfortable with. If you're not sure, Claude.ai in the browser is the easiest starting point — you can always move to Claude Code later.
+Pick whichever you're most comfortable with. If you're not sure, Claude.ai or ChatGPT in the browser are the easiest starting points — you can always move to a terminal-based tool later.
 
 ### Step 3: Get a terminal (if using Claude Code)
 
