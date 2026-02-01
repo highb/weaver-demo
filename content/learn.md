@@ -1,6 +1,10 @@
-# Learning Guide
++++
+date = '2026-02-01'
+draft = false
+title = 'Learning Guide'
++++
 
-If you used [PROMPT.md](PROMPT.md) to set up your site, a lot just happened very quickly. You now have a working website, but you might not understand how or why it works. That's completely okay. You don't need to understand everything at once — or ever, honestly. Plenty of people drive cars without knowing how engines work.
+If you used the [Build Your Own](/prompt/) prompt to set up your site, a lot just happened very quickly. You now have a working website, but you might not understand how or why it works. That's completely okay. You don't need to understand everything at once — or ever, honestly. Plenty of people drive cars without knowing how engines work.
 
 But if you're curious, this guide walks through the technologies your site uses, starting from the basics. Take it at your own pace.
 

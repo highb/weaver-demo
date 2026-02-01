@@ -64,7 +64,7 @@ If any of this feels overwhelming, paste these instructions into your AI tool of
 
 ### Step 4: Build your site
 
-Once you have a coding tool set up, open [PROMPT.md](PROMPT.md) and follow the instructions there. It contains a ready-to-paste prompt — fill in your details (name, GitHub username, etc.) and give it to your AI coding tool. It will set up everything and deploy your site.
+Once you have a coding tool set up, open [Build Your Own](/content/prompt.md) and follow the instructions there. It contains a ready-to-paste prompt — fill in your details (name, GitHub username, etc.) and give it to your AI coding tool. It will set up everything and deploy your site.
 
 ### Step 5: Start writing
 
@@ -80,9 +80,9 @@ The best version of your site is the one that sounds like a person made it — b
 
 ## Learning more
 
-New to all of this? [LEARN.md](LEARN.md) explains every technology the site uses, from the ground up, with links to free learning resources. There's no pressure to understand it all — or any of it. You can go as deep as you want.
+New to all of this? [Learning Guide](/content/learn.md) explains every technology the site uses, from the ground up, with links to free learning resources. There's no pressure to understand it all — or any of it. You can go as deep as you want.
 
-Using an AI tool to build your site? Read [LIMITATIONS.md](LIMITATIONS.md) to understand what LLMs are bad at — including bias, hallucination, and the tendency to produce generic, soulless text unless you push back.
+Using an AI tool to build your site? Read [Limitations of LLMs](/content/limitations.md) to understand what LLMs are bad at — including bias, hallucination, and the tendency to produce generic, soulless text unless you push back.
 
 ## Local development
 

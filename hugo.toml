@@ -46,3 +46,18 @@ theme = "weaver"
     name = "About"
     url = "/about/"
     weight = 3
+
+  [[menu.main]]
+    name = "Build Your Own"
+    url = "/prompt/"
+    weight = 4
+
+  [[menu.main]]
+    name = "Learn"
+    url = "/learn/"
+    weight = 5
+
+  [[menu.main]]
+    name = "Limitations"
+    url = "/limitations/"
+    weight = 6

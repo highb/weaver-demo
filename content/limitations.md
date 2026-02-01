@@ -1,4 +1,8 @@
-# Limitations of LLMs
++++
+date = '2026-02-01'
+draft = false
+title = 'Limitations of LLMs'
++++
 
 If you used an AI tool to build your site, it's worth understanding what that tool is bad at. Not to scare you off — you've already got a working website, which is great — but because knowing the limits helps you use it better.
 

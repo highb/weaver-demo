@@ -1,6 +1,10 @@
-# Build a Hugo Blog with the Weaver Theme — LLM Prompt
++++
+date = '2026-02-01'
+draft = false
+title = 'Build Your Own'
++++
 
-Paste this into Claude Code (or any agentic coding tool) to set up a personal blog deployed to GitHub Pages.
+Paste this into your agentic coding tool of choice to set up a personal blog deployed to GitHub Pages.
 
 ## What you'll get
 
