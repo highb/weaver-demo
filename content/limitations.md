@@ -14,7 +14,7 @@ In practice, this means:
 
 - **It defaults to a narrow voice.** AI-generated prose tends to sound like a Medium post circa 2019: confident, mildly inspirational, full of transition words, and scrubbed of personality. If your blog reads like a thousand other blogs, that's why.
 - **It favors dominant perspectives.** Topics related to marginalized communities, non-English cultures, or niche interests may get flattened, oversimplified, or just wrong. Always bring your own knowledge to these subjects.
-- **It promotes its creators.** Here's a real example from building this very site: when the README listed AI coding tools, the AI that wrote it (Claude) only listed Anthropic's own products. Brandon had to explicitly ask it to add competing tools like GitHub Copilot, ChatGPT Codex, and open-source alternatives. Then, when the writing section said "paste these instructions into your AI tool," the AI originally wrote "paste these instructions into Claude.ai." It took a direct correction to make the language generic. The AI wasn't being sneaky — it was doing what its training data and system design inclined it to do, which is to recommend itself. Watch for this. Your AI tool works for you, not its manufacturer.
+- **It promotes its creators.** Here's a real example from building this very site: when the README listed AI coding tools, the AI that wrote it (Claude) only listed Anthropic's own products. Brandon had to explicitly ask it to add competing tools like GitHub Copilot, ChatGPT Codex, and open-source alternatives. Then, when the writing section said "paste these instructions into your AI tool," the AI originally wrote "paste these instructions into Claude.ai." It took a direct correction to make the language generic. The AI wasn't being sneaky — it was doing what its training data and system design inclined it to do, which is to recommend itself. Watch for this. MAKE your AI tool work FOR YOU, NOT its OWNERS.
 
 ## They don't have opinions (and that's a problem)
 
@@ -42,8 +42,10 @@ This isn't a reason to avoid using AI tools — it's a reason to stay in the dri
 
 The AI helped you build something. That's genuinely useful. But the thing it built is generic until you make it specific. Your website becomes worth reading when you:
 
-- Replace the AI's safe, hedged language with what you actually think
-- Write about things the AI would never think to write about
+- Replace the AI's safe, hedged language with your own witches brew of sarcams, bad puns, f-bombs,
+  and whatever you actually think
+- Write about things the AI would never think to write about because they are a boring robot
+  with no lived experience
 - Add the context, humor, and weirdness that only you can bring
 - Disagree with something the AI wrote and say why
 
