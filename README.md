@@ -60,7 +60,7 @@ You'll also need to install a few things through the terminal:
 - **[Hugo](https://gohugo.io/installation/)** — the tool that builds your site
 - **[GitHub CLI](https://cli.github.com/)** — for connecting to GitHub from the terminal (run `gh auth login` after installing)
 
-If any of this feels overwhelming, paste these instructions into Claude.ai and ask it to walk you through the installation for your specific computer. That's a perfectly valid way to do it.
+If any of this feels overwhelming, paste these instructions into your AI tool of choice and ask it to walk you through the installation for your specific computer. That's a perfectly valid way to do it.
 
 ### Step 4: Build your site
 
@@ -73,6 +73,10 @@ After setup, creating new content is as simple as telling your AI tool:
 > Write a new blog post about \[topic\]
 
 Then commit and push to publish it.
+
+But here's the thing — the AI-generated first draft is just a starting point. It's going to sound like an AI wrote it, because one did. Tear it apart. Rewrite the parts that don't sound like you. Add your weird opinions, your specific references, your bad jokes. Ask the AI to rewrite sections in a different tone, or to make it funnier, or stranger, or angrier. Tell it "this is too polished, rough it up." Tell it "add a digression about my cat." Whatever.
+
+The best version of your site is the one that sounds like a person made it — because one did. The AI is a power tool, not an author. Use it to get words on the page fast, then make those words yours.
 
 ## Learning more
 
