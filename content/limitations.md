@@ -12,7 +12,7 @@ LLMs are trained on enormous amounts of text from the internet. That text contai
 
 In practice, this means:
 
-- **It defaults to a narrow voice.** AI-generated prose tends to sound like a Medium post circa 2019: confident, mildly inspirational, full of transition words, and scrubbed of personality. If your blog reads like a thousand other blogs, that's why.
+- **It defaults to a narrow voice.** AI-generated prose tends to sound like a Medium post circa 2019: confident, mildly inspirational, full of transition words, scrubbed of personality, and full of [those damn em-dashes that no one will shut the fuck up about](https://www.theringer.com/2025/08/20/pop-culture/em-dash-use-ai-artificial-intelligence-chatgpt-google-gemini). If your blog reads like a thousand other blogs, that's why.
 - **It favors dominant perspectives.** Topics related to marginalized communities, non-English cultures, or niche interests may get flattened, oversimplified, or just wrong. Always bring your own knowledge to these subjects.
 - **It promotes its creators.** Here's a real example from building this very site: when the README listed AI coding tools, the AI that wrote it (Claude) only listed Anthropic's own products. Brandon had to explicitly ask it to add competing tools like GitHub Copilot, ChatGPT Codex, and open-source alternatives. Then, when the writing section said "paste these instructions into your AI tool," the AI originally wrote "paste these instructions into Claude.ai." It took a direct correction to make the language generic. The AI wasn't being sneaky — it was doing what its training data and system design inclined it to do, which is to recommend itself. Watch for this. MAKE your AI tool work FOR YOU, NOT its OWNERS.
 
