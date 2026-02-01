@@ -82,6 +82,8 @@ The best version of your site is the one that sounds like a person made it — b
 
 New to all of this? [LEARN.md](LEARN.md) explains every technology the site uses, from the ground up, with links to free learning resources. There's no pressure to understand it all — or any of it. You can go as deep as you want.
 
+Using an AI tool to build your site? Read [LIMITATIONS.md](LIMITATIONS.md) to understand what LLMs are bad at — including bias, hallucination, and the tendency to produce generic, soulless text unless you push back.
+
 ## Local development
 
 If you have Hugo installed, you can preview your site before publishing:
