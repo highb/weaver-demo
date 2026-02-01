@@ -84,6 +84,24 @@ New to all of this? [Learning Guide](/content/learn.md) explains every technolog
 
 Using an AI tool to build your site? Read [Limitations of LLMs](/content/limitations.md) to understand what LLMs are bad at — including bias, hallucination, and the tendency to produce generic, soulless text unless you push back.
 
+## Updating the theme
+
+The Weaver theme is a git submodule. To update it to the latest version:
+
+```
+cd themes/weaver
+git fetch
+git checkout origin/main
+cd ../..
+git add themes/weaver
+git commit -m "Update Weaver theme to latest"
+git push
+```
+
+Or just tell your AI tool:
+
+> Update the Weaver theme submodule to the latest version and push
+
 ## Local development
 
 If you have Hugo installed, you can preview your site before publishing:
@@ -92,4 +110,4 @@ If you have Hugo installed, you can preview your site before publishing:
 hugo server -D
 ```
 
-This starts a local server — open the URL it prints in your browser to see your site.
+This starts a local server. Open the URL it prints in your browser to see your site.
